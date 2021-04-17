@@ -1,0 +1,9 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "out/rendu.xdv" "out/rendu.pdf" "out/rendu" 0
+  "out/rendu.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "out/rendu.pdf"
+["xelatex"] 1618387528 "rendu.tex" "out/rendu.xdv" "rendu" 1618387528
+  (generated)
+  "out/rendu.xdv"
+  "out/rendu.log"
